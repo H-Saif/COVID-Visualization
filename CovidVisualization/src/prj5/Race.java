@@ -1,19 +1,13 @@
 package prj5;
 
 import java.text.DecimalFormat;
-// Virginia Tech Honor Code Pledge:
-// f
-// As a Hokie, I will conduct myself with
-// honor and integrity at all times.
-// I will not lie, cheat, or steal, nor will
-// I accept the actions of those who do.
-// -- Prahaara (prahaara08)
+
 
 /**
  * This class is used to
  * get races.
  * 
- * @author Prahaara (prahaara08)
+ * @author Hamza Saif
  * @version 2022.04.19
  */
 public class Race {
